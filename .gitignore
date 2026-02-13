@@ -1,6 +1,12 @@
-<<<<<<< HEAD
+
+.env
+secrets.py
+*.lnk
+*.ini
+*.tar.gz
+
 node_modules/\nlogs/\n.env*\npids/\n*.log
-=======
+
 # Logs
 logs
 *.log
@@ -144,3 +150,4 @@ vite.config.ts.timestamp-*
 
 # Custom secret files
 secrets.py
+>>>>>>> deed5fa67631037c5edaaddddd7f0dd85f633e77
