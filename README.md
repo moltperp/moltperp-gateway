@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-# MoltPerps Gateway\nServer for bot orchestration, API endpoints, and real-time updates.\n\n## Setup\nnpm install\ncp .env.example .env\nnpm start
-=======
-# moltperp-gateway
->>>>>>> e8e34bc76abdd79b9d53108a23ca589a09f79a2b
+# Moltperp Gateway
+This is the secure gateway for the Moltperp project.
+
+## Setup
+1. Clone the repo.
+2. Create a `.env` file with your API keys.
+3. Run `python main.py` (or your specific startup command).
