@@ -144,3 +144,23 @@ vite.config.ts.timestamp-*
 
 # Custom secret files
 secrets.py
+
+# Moltperp Security Standard v2026.2.9
+# 1. Private/Secrets
+.env
+*.pem
+secrets.py
+keys/
+
+# 2. Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.pytest_cache/
+
+# 3. Database & System
+*.db
+*.sqlite3
+.DS_Store
