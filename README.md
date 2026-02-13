@@ -2,6 +2,15 @@
 This is the secure gateway for the Moltperp project.
 
 ## Setup
-1. Clone the repo.
-2. Create a `.env` file with your API keys.
-3. Run `python main.py` (or your specific startup command).
+# Clone the repository
+git clone https://github.com/moltperp/moltperp-gateway.git && cd moltperp-gateway
+
+# Set up local environment (Securely ignored by Git)
+touch .env
+
+# Install dependencies (Uncomment the one you need)
+# For Node.js:
+# npm install  
+
+# For Python:
+# pip install -r requirements.txt
