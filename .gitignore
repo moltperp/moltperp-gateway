@@ -141,3 +141,6 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 >>>>>>> e8e34bc76abdd79b9d53108a23ca589a09f79a2b
+
+# Custom secret files
+secrets.py
