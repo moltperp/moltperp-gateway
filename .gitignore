@@ -144,3 +144,8 @@ vite.config.ts.timestamp-*
 
 # Custom secret files
 secrets.py
+
+# Windows system and shortcut files
+*.lnk
+*.ini
+*.tar.gz
